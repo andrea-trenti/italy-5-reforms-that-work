@@ -3,9 +3,9 @@
 This repository is a small, data-driven project on **what could actually work to improve Italy’s economic performance and political effectiveness**.
 
 Instead of generic “do reforms”, the focus is on **five concrete levers**, each with:
-- at least **one measurable KPI** (productivity, R&D intensity, governance),
-- a **baseline** (Italy today),
-- a **target scenario**, and
+- at least **one measurable KPI** (productivity, R&D intensity, governance);
+- a **baseline** (Italy today);
+- a **target scenario**;
 - an **order-of-magnitude estimate** of the potential impact.
 
 The project is intentionally simple:
