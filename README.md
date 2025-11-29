@@ -1,4 +1,4 @@
-# Italy – Five Reforms That Work
+# Italy – Five Reforms That Could Work
 
 This repository is a small, data-driven project on **what could actually work to improve Italy’s economic performance and political effectiveness**.
 
