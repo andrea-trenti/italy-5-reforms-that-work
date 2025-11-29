@@ -1,110 +1,75 @@
 # Italy – Five Reforms That Could Work
 
-This repository is a small, data-driven project on **what could actually work to improve Italy’s economic performance and political effectiveness**.
+This repository hosts a compact, data-driven working paper on what **could** realistically move the needle on Italy’s long-run growth and institutional quality.
 
-Instead of generic “do reforms”, the focus is on **five concrete levers**, each with:
-- at least **one measurable KPI** (productivity, R&D intensity, governance);
-- a **baseline** (Italy today);
-- a **target scenario**;
-- an **order-of-magnitude estimate** of the potential impact.
+Instead of generic calls to “do reforms”, the project focuses on **five concrete levers**, each described with:
 
-The project is intentionally simple:
-- one Excel file with a few key indicators and rough scenarios;
-- one markdown paper that explains the logic and provides policy discussion.
+- at least one measurable KPI (productivity, R&D intensity, governance);
+- a baseline for Italy today;
+- a plausible target scenario;
+- an order-of-magnitude estimate of the potential impact.
 
----
-
-## Motivation in one picture
-
-Italy is a paradox:
-- it is the **second-largest manufacturer in the euro area**, but
-- it combines **low labour productivity**, **weak innovation**, **fragmented firms**, and **fragile governance**.
-
-Some headline numbers (latest available around 2023–2025):
-
-- **Labour productivity – GDP per hour worked (USD, PPP)**  
-  - Italy: ~**77 USD/hour** (2023)  
-  - Spain: ~77–78  
-  - France: ~91  
-  - Germany: ~93  
-  - OECD average: ~60  
-
-- **Research & development (R&D) intensity – gross domestic expenditure on R&D (% of GDP)**  
-  - Italy: roughly **1.3% of GDP** in 2023  
-  - EU average: **2.2% of GDP** in 2023  
-
-- **SMEs (small and medium-sized enterprises)**  
-  - **>4 million SMEs** – the highest number among EU Member States  
-  - about **13 million workers**  
-  - account for **>65% of national value added**  
-  - SME value added per worker ≈ **€42,000** vs **€44,600** EU average;  
-    Germany and France are about **21%** and **29%** more productive than Italian SMEs.
-
-- **Justice and business environment**  
-  - Time to resolve civil/commercial cases in Italy is around **1,000 days** – longer than any other EU country.  
-  - Older Doing Business data reported around **1,120 days** to enforce a contract.  
-  - Italy has improved clearance rates, but delays remain a major obstacle to investment and firm growth.
-
-- **Governance and trust**  
-  - Corruption Perceptions Index (0–100): **54/100**, rank ≈ 52/180 countries.  
-  - Trust in national government: **36%** of people with high or moderate trust vs **39%** OECD average.  
-  - Satisfaction with administrative services: **48%** vs **66%** OECD average.
-
-The project asks a simple question:
-
-> If Italy made five focused, evidence-based reforms, how big could the long-run payoff be?
+All scenarios are **illustrative**: they describe what *could work* under specific assumptions, not a guaranteed policy outcome.
 
 ---
 
-## The five reforms
+## The five reforms (high-level)
 
-Each reform is represented by a line in the dataset and a dedicated section in the paper.
+1. **Rebalance public pension spending**  
+   Gradual but meaningful reduction in pension expenditure as a share of GDP, mainly by:
+   - tightening access to early retirement and special regimes;
+   - slowing indexation for higher pensions;
+   - aligning retirement ages to life expectancy.  
+   Part of the savings is used to stabilise public debt; part is redeployed to growth-enhancing items.
 
-1. **Scale up SMEs and reduce micro-firm fragmentation**  
-   Italy’s economy is dominated by micro and small firms.  
-   - About **4+ million SMEs**, with a **very high share of micro firms**.
-   - SMEs employ roughly **13 million people** and generate **>65%** of total value added.  
-   - Productivity of micro firms (0–9 employees) is significantly below the EU average.  
-   The reform explores how closing the productivity gap of micro firms could add several percentage points to total value added.
+2. **Invest in universities, research and advanced human capital**  
+   A sustained increase in:
+   - public spending on universities and tertiary education;
+   - R&D intensity and technology transfer;  
+   with the explicit goal of moving Italy closer to the upper half of EU innovation performers.
 
-2. **Boost R&D and SME digitalisation**  
-   Italy spends **much less on R&D** than the EU target and is slower in adopting digital technologies.  
-   - R&D intensity: from ≈**1.45%** in 2021 down to ≈**1.31%** in 2023.  
-   - EU average R&D intensity: **2.2%** of GDP in 2023.  
-   - Around **60–61%** of Italian SMEs (10–249 employees) have at least a **basic level of digitalisation** (e.g. using ≥4 out of 12 core digital tools).  
-   The reform simulates what happens if Italy converges closer to EU R&D/digitalisation benchmarks.
+3. **Scale up firms and reduce micro-firm fragmentation**  
+   Policies to encourage:
+   - mergers, aggregations and business networks;
+   - professional management and governance in mid-caps;  
+   with the aim of shifting value added from micro firms to more productive small and medium-sized enterprises.
 
-3. **Increase public administration and justice efficiency**  
-   Italy’s civil justice and administrative procedures are notoriously slow and complex.  
-   - It can take around **2.7 years (~1,000 days)** to fully close a civil/commercial case.  
-   - Enforcement of contracts has historically taken **1,000+ days** in international comparisons.  
-   - Experimental reforms (e.g. improved case management) have shown that cutting trial length by **50%** can significantly increase average firm size.  
-   The reform treats justice/PA efficiency as a productivity lever.
+4. **Speed up justice and contract enforcement**  
+   A persistent effort to:
+   - shorten the time to resolve civil and commercial cases;
+   - increase the predictability of enforcement;  
+   to reduce one of the main non-tax barriers to investment and firm growth.
 
-4. **Open up closed sectors and lower entry barriers**  
-   Product Market Regulation (PMR) indicators show that Italy is close to the OECD average overall, but is **more restrictive in services and some professions** (retail, pharmacies, regulated professions, barriers to FDI and trade facilitation, weak regulation of lobbying).  
-   The reform examines the potential gains from:
-   - easing barriers to entry in services and professions,  
-   - reducing state involvement where it distorts competition,  
-   - improving transparency in lobbying and consultation processes.
+5. **Simplify taxes and public administration for productive investment**  
+   Streamlining of:
+   - tax incentives for investment and innovation;
+   - administrative procedures for hiring, exporting and investing;  
+   with an emphasis on stability and credibility over time.
 
-5. **Strengthen integrity, transparency and trust in politics**  
-   Italy is stuck in a “medium” governance zone:
-   - CPI score: **54/100** (mid-range, below many Western European peers).  
-   - Trust in government and satisfaction with public services are below OECD averages.  
-   - External watchdogs place Italy among EU countries where rule of law tensions and institutional backsliding are a concern.  
-   The reform is less about a single KPI and more about an institutional package: anti-corruption, transparency-by-design, merit-based appointments and evidence-based policymaking.
+Each reform is treated as a separate “line” in the paper, but the interesting scenarios come from **combining** them.
 
 ---
 
-## Repository structure
+## Repository content
 
-Suggested layout:
+- `README.md` – overview and motivation.
+- `paper.md` – full working paper with:
+  - baseline diagnostic on productivity, pensions, education, R&D and governance;
+  - five reform blocks with indicative magnitudes;
+  - a combined long-run scenario and a short political-economy discussion.
 
-```text
-italy-5-reforms-that-work/
-├─ data/
-│  └─ italy_top5_reforms_dataset.xlsx
-├─ paper/
-│  └─ italy_5_reforms_paper.md
-└─ README.md
+There are **no additional data files**. All quantitative statements are based on publicly available sources cited in the paper (OECD, Eurostat, World Bank, Banca d’Italia, etc.).
+
+---
+
+## How to use this project
+
+- As a **conversation starter** on Italy’s policy priorities, especially for students and practitioners.
+- As a template for similar projects on other countries: one markdown README, one markdown paper, a few well-chosen indicators.
+
+---
+
+## Disclaimer
+
+This is a personal, exploratory exercise.  
+The five reforms discussed are not a political programme. They are stylised scenarios that **could work** under specific assumptions and strong implementation capacity.
