@@ -1,8 +1,6 @@
 # Italy – Five Reforms That Could Work  
 ### A Stylised, Data-Driven Scenario for Growth and Institutions
 
-*Working paper – draft version*  
-
 ---
 
 ## Abstract
